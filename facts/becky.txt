@@ -1,0 +1,5 @@
+My wife's name is Becky.
+Her birthday is on the 15th September.
+Her favourite colour is blue.
+She loves dogs.
+Becky is a Python programmer, and a Linux user.
