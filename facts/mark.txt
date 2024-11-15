@@ -1,0 +1,5 @@
+My name is Mark Smith.
+Mark is a Python developer.
+Mark is bald.
+Mark's birthday is on the 17th January.
+Mark likes folding bicycles, Factorio, and Chocolate Digestives.
